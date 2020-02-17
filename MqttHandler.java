@@ -1,9 +1,15 @@
 package com.aridsys.clientexamplemqttjava;
 
-/**
- * Created by Bill Wood on 18 Feb 2020.
- * Copyright Arid Systems Pty Ltd 2020.
- */
+/********************************************************************************
+ * Copyright (c) 2020 Arid Systems Pty Ltd.
+ *
+ * This program and the accompanying materials are made available under the
+ * terms of the Eclipse Public License 2.0 which is available at
+ * http://www.eclipse.org/legal/epl-2.0, or the Apache License, Version 2.0
+ * which is available at https://www.apache.org/licenses/LICENSE-2.0.
+ *
+ * SPDX-License-Identifier: EPL-2.0 OR Apache-2.0
+ ********************************************************************************/
 
 import org.eclipse.paho.client.mqttv3.IMqttDeliveryToken;
 import org.eclipse.paho.client.mqttv3.MqttException;
