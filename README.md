@@ -11,6 +11,6 @@ MQTT is a client-server publish/subscribe messaging transport protocol. It is li
 
 This code utilizes the Eclipse Paho MQTT Client v3.1 blocking API.
 
-You will need an Iotobex user account. Be sure to configure the credentials and access URL and port in ClientExampleStompPython.py as per the Credentials and STOMP specifics as provided through the Iotobex Client Console.
+You will need an Iotobex user account. Be sure to configure the credentials and access endpoint and port in ClientExampleMqttJava.java as per the Credentials and MQTT specifics as provided through the Iotobex Client Console.
 
 Note that the stream name utilized in the example must be configured for the user whose credentials are specified. To do this, configure the stream name as both a publishable and subscribed stream by means of the Iotobex Client Console.
